@@ -1,0 +1,9 @@
+spring:
+    rabbitmq:
+        host: localhost
+        port: 5672
+        username: yeonsang
+        password: Dustkd4!
+server:
+    port: 9081
+
